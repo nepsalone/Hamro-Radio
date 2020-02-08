@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277106616058",
+    "firebase_url": "https://swadeshfm-6e2e3.firebaseio.com",
+    "project_id": "swadeshfm-6e2e3",
+    "storage_bucket": "swadeshfm-6e2e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277106616058:android:7fbf350940f4a435",
+        "android_client_info": {
+          "package_name": "com.vpapps.onlineradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277106616058-ff786pbo1qhjijr6cbt7jkfokdgtfk0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtN6YQsRYg6bewwir9vXTFJ9nTkxMIOcA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
